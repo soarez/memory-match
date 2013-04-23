@@ -5,8 +5,8 @@
   JSONP is bad idea. Since CORS has showed up,
   THERE IS NO GOOD REASON TO USE IT.
 
-  I despise it recomend everyone to never adopt it,
-  supported or even talk about it.
+  I despise it and recomend everyone to
+  never adopt it, supported or even talk about it.
 
   JSONP is cancer.
 
